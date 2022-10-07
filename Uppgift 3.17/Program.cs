@@ -33,7 +33,7 @@ namespace Uppgift_3._17
                     break;
                 case 4:
                     Console.WriteLine(tal1 / tal2);
-                    break;
+                    break;//hej
             }
                
                   
